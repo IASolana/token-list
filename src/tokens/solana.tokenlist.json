@@ -892,6 +892,27 @@
     },
     {
       "chainId": 101,
+      "address": "CiAS2EUR6qDmUEHtLoJtXQ4XoLWLVuxsPX3F74smXnez",
+      "symbol": "CIAS",
+      "name": "Coin Invasive Alien Species",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CiAS2EUR6qDmUEHtLoJtXQ4XoLWLVuxsPX3F74smXnez/logo.png",
+      "tags": [
+        "utility-token",
+        "metaverse",
+        "nfts",
+        "solana-ecosystem",
+        "staking"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/invalienspecies",
+        "website": "https://invasivealiens.art",
+        "instagram": "http://instagram.com/invalienspecies",
+        "discord": "http://discord.gg/VEVJJTjxKD"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "FEYFyLCFLcBNfSuaf2eXNvyY5Jpii7zg9X48Br5vyenG",
       "symbol": "SUSDT",
       "name": "Stether",
